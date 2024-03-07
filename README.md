@@ -1,14 +1,15 @@
 👋 Hi, I’m @FlavioHys
   Welcome to my project showcase
 
-I'm currently working in Python and C++:
+I'm currently working in Python and C++.
+
 Python libraries I'm familar with:
-    - Pandas
-    - Matplotlib
-    - Seaborn
-    - NumPy
-    - Flask
-    - Tkinter
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - NumPy
+  - Flask
+  - Tkinter
 
 Roles I'm looking for:
   - Software Engineer
