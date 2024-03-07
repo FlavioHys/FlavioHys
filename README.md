@@ -2,7 +2,7 @@
   Welcome to my project showcase
 
 I'm currently working in Python and C++:
-  Python libraries I'm familar with:
+Python libraries I'm familar with:
     - Pandas
     - Matplotlib
     - Seaborn
