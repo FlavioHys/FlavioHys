@@ -20,8 +20,8 @@ Roles I'm looking for:
   Flavio-hyseni@outlook.com 
 
 ⚡ Fun fact: 
-  I used to be a Mathematics Teacher.
-  I speak a langauge that only 0.1% of the earths population speak.
+  - I used to be a Mathematics Teacher.
+  - I speak a langauge that only 0.1% of the earths population speak.
 
 <!---
 FlavioHys/FlavioHys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
