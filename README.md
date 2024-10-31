@@ -1,20 +1,13 @@
 👋 Hi, I’m @FlavioHys
   Welcome to my project showcase
 
-I'm currently working in Python and C++.
-
-Python libraries I'm familar with:
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - NumPy
-  - Flask
-  - Tkinter
+I'm currently working in Python.
 
 Roles I'm looking for:
   - Software Engineer
   - DevOps Engineer
   - Site Reliability Engineer
+  - Network Automation Engineer
 
 📫 How to reach me:
   Flavio-hyseni@outlook.com 
